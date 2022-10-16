@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋
+
+Please, don't get lost in repositories. Here the portfolio projects:
 
 <!--
 **gerardVM/gerardVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for arriving here and welcome to my personal profile.
-
-You'll find mostly portfolio projects as well as other stuff that is just useful to me for my day-to-day.
-
-If you are looking for portfolio projects, let me list them to you:
-
-
-> **Haskell**: [Brick Breaker 2 Players CLI](https://github.com/gerardVM/brick-breaker) | · → 🧱 ← · |  Simple Brick Breaker videogame (2 players version) to play with the terminal
->
-> **Haskell**: [Brick Breaker Multiball CLI](https://github.com/gerardVM/brick-breaker-multi-ball) | ::::::::: → 🧱 |  Multiball Brick Breaker videogame to play with the terminal
->
-> **Haskell**: [Minion Ascii Animation](https://github.com/gerardVM/ascii-animation-haskell) 📽 |  Basic Ascii Animation to play with the terminal
->
-> **Java**: [Backend Bank System](https://github.com/gerardVM/IronHack-Personal-Project) 🏦 |  Bank System 1-week exercise as the backend bootcamp project
->
-> **TypeScrpit**: [Frontend Pokemon Exercise](https://github.com/gerardVM/pokemon-angular) 🐛 |  Frontend basic exercise
+Title | Language | Emoji | Description
+:--- | :---: | :---: | :---
+[Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | 💰 💳 🏦 | Bank System 1-week exercise as the backend bootcamp project
+[Front-end Pokemon Exercise](https://github.com/gerardVM/pokemon-angular) | TypeScrpit | 🐹 🦇 🔥 🐛 | Frontend basic exercise
+[Brick Breaker Multiball CLI](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell |  ::::::::: → 🧱🧱 | Multiball Brick Breaker videogame to play with the terminal
+[Brick Breaker 2 Players CLI](https://github.com/gerardVM/brick-breaker) | Haskell | · → 🧱🧱 ← · | Brick Breaker videogame (2 players version) to play with the terminal
+[Minion Ascii Animation](https://github.com/gerardVM/ascii-animation-haskell) | Haskell | 🎞 📽 | Basic Ascii Animation to play with the terminal
