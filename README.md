@@ -1,6 +1,6 @@
 Hi there 👋
 
-Please, don't get lost in repositories. Here the portfolio projects:
+Please, don't get lost in repositories. These are the portfolio projects:
 
 <!--
 **gerardVM/gerardVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
