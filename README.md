@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Title | Language | Emoji | Description
 :--- | :---: | :---: | :---
-[Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL | 👥 | Volatile VPN server on an AWS ec2 instances
+[Ninja VPN in AWS](https://github.com/gerardVM/ninja-vpn) | HCL | 👥 | Volatile VPN server on an AWS ec2 instances
 [Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | 💰 💳 🏦 | Bank System exercise as a bootcamp 1-week individual project
 [Front-end Pokemon](https://github.com/gerardVM/pokemon-angular) | TypeScrpit | 🐹 🦇 🔥 🐛 | Pokemon front-end basic exercise
 [Brick Breaker Multiball CLI](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell |  :::::: → 🧱🧱 | Multiball Brick Breaker videogame to play with the terminal
