@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Title | Language | Emoji | Description
 :--- | :---: | :---: | :---
+[Custom Terraform](https://github.com/gerardVM/custom-terraform) | Shell | | Docker workaround for Terraform on Apple Silicon (M1) devices
 [Ninja VPN in AWS](https://github.com/gerardVM/ninja-vpn) | HCL | 👥 | Volatile VPN server on an AWS ec2 instances
 [Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | 💰 💳 🏦 | Bank System exercise as a bootcamp 1-week individual project
 [Front-end Pokemon](https://github.com/gerardVM/pokemon-angular) | TypeScrpit | 🐹 🦇 🔥 🐛 | Pokemon front-end basic exercise
