@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Title | Language | Emoji | Description
 :--- | :---: | :---: | :---
-[Shared Infra](https://github.com/gerardVM/shared-infra) | HCL | | I share my repo to control my personal infra in AWS
-[Custom Terraform](https://github.com/gerardVM/custom-terraform) | Shell | | Docker workaround for Terraform on Apple Silicon (M1) devices
+[Shared Infra](https://github.com/gerardVM/shared-infra) | HCL | ⭐ | I share my repo to control my personal infra in AWS
+[Custom Terraform](https://github.com/gerardVM/custom-terraform) | Shell | 🐋 | Docker workaround for Terraform on Apple Silicon (M1) devices
 [Ninja VPN in AWS](https://github.com/gerardVM/ninja-vpn) | HCL | 👥 | Volatile VPN server on an AWS ec2 instance
 [Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | 💰 💳 🏦 | Bank System exercise as a bootcamp 1-week individual project
 [Front-end Pokemon](https://github.com/gerardVM/pokemon-angular) | TypeScrpit | 🐹 🦇 🔥 🐛 | Pokemon front-end basic exercise
