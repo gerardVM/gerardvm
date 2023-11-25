@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Title | Language | Emoji | Description
 :--- | :---: | :---: | :---
+[AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | | Terraform module for AWS IAM Identity Center through yaml
 [Multiuser Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | 👥👥👥👥 | Temporal VPN server on AWS ec2 instances via API
 [Shared AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | ⭐⭐ | I share my repo to control my personal infra in AWS
 [Spot Monitor in AWS](https://github.com/gerardVM/spot-monitor) | HCL | 👁️‍🗨️ | On-premises infra monitoring with Uptime Kuma
