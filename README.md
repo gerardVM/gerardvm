@@ -22,6 +22,7 @@ Title | Language | Description
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center through yaml
 [Multiuser Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | Temporal VPN server on AWS ec2 instances via API
 [Shared AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | I share my repo to control my personal infra in AWS
+[Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell | Portable containerized terraform
 [Spot Monitor in AWS](https://github.com/gerardVM/spot-monitor) | HCL | On-premises infra monitoring with Uptime Kuma
 [Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | Bank System exercise as a bootcamp 1-week individual project
 [Brick Breaker Multiball CLI](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell | Multiball Brick Breaker videogame to play with the terminal
