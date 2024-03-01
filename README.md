@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 Title | Language | Description
 :--- | :---: | :---
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center using yaml
-[Multiuser Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | Temporary VPN server running on Amazon Web Services
-[Shared AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infra in Amazon Web Services
+[Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | Temporary VPN server running on Amazon Web Services
+[My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infra in Amazon Web Services
 [Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell | Portable containerized terraform
-[Spot Monitor in AWS](https://github.com/gerardVM/spot-monitor) | HCL | On-premise infra monitoring with Uptime Kuma
+[Uptime Monitor in AWS](https://github.com/gerardVM/spot-monitor) | HCL | On-premise infra monitoring with Uptime Kuma
 [Brick Breaker Multiball CLI](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell | Multiball Brick Breaker videogame to play with the terminal
 [Brick Breaker 2 Players CLI](https://github.com/gerardVM/brick-breaker) | Haskell | 2 Players Brick Breaker videogame to play with the terminal
 [Minion Ascii Animation](https://github.com/gerardVM/ascii-animation-haskell) | Haskell | Basic Ascii Animation to play with the terminal
