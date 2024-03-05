@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Title | Language | Description
 :--- | :---: | :---
+[AWS SSH Anywhere](https://github.com/gerardVM/terraform-aws-ssh-anywhere) | HCL | Terraform module for AWS to ssh any public or private EC2 instance
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center using yaml
 [Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | Temporary VPN server running on Amazon Web Services
 [My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infra in Amazon Web Services
