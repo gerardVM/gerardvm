@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 Title | Language | Description
 :--- | :---: | :---
+[My Observability](https://github.com/gerardVM/observability) | HCL | My personal observability setup in Grafana
 [AWS SSH Anywhere](https://github.com/gerardVM/terraform-aws-ssh-anywhere) | HCL | Terraform module to enable SSH access to any public or private EC2 instance on AWS
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center, configured with YAML
 [Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | A temporary VPN server running on AWS
-[My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL |My personal infrastructure setup on AWS
+[My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infrastructure setup on AWS
 [Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell | Portable containerized terraform
 [Uptime Monitor](https://github.com/gerardVM/spot-monitor) | HCL | On-premises infrastructure monitoring using Uptime Kuma
 [Brick Breaker Multiball](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell | A terminal-based multiball Brick Breaker game
