@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Title | Language | Description
-:--- | :---: | :---
-[My Observability](https://github.com/gerardVM/observability) | HCL | My personal observability setup in Grafana
-[AWS SSH Anywhere](https://github.com/gerardVM/terraform-aws-ssh-anywhere) | HCL | Terraform module to enable SSH access to any public or private EC2 instance on AWS
-[AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center, configured with YAML
-[Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | A temporary VPN server running on AWS
-[My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infrastructure setup on AWS
-[Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell | Portable containerized terraform
-[Uptime Monitor](https://github.com/gerardVM/spot-monitor) | HCL | On-premises infrastructure monitoring using Uptime Kuma
-[Brick Breaker Multiball](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell | A terminal-based multiball Brick Breaker game
-[Brick Breaker 2 Players](https://github.com/gerardVM/brick-breaker) | Haskell | A terminal-based 2-player Brick Breaker game
-[Minion Ascii Animation](https://github.com/gerardVM/ascii-animation-haskell) | Haskell | An ASCII animation of a Minion, playable in the terminal
-[Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | A bootcamp project, simulating a bank system in Java (1-week individual project)
+Title | Language | Description | Last commit
+:--- | :---: | :--- | :---
+[My Observability](https://github.com/gerardVM/observability) | HCL | My personal observability setup in Grafana | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/observability)
+[AWS SSH Anywhere](https://github.com/gerardVM/terraform-aws-ssh-anywhere) | HCL | Terraform module to enable SSH access to any public or private EC2 instance on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-aws-ssh-anywhere)
+[AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center, configured with YAML | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-aws-iam-identity-center)
+[Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | A temporary VPN server running on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/ninja-vpn)
+[My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infrastructure setup on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/shared-infra)
+[Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell |Portable containerized terraform |  ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-anywhere)
+[Uptime Monitor](https://github.com/gerardVM/spot-monitor) | HCL | On-premises infrastructure monitoring using Uptime Kuma | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/spot-monitor)
+[Brick Breaker Multiball](https://github.com/gerardVM/brick-breaker-multi-ball) | Haskell | A terminal-based multiball Brick Breaker game | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/brick-breaker-multi-ball)
+[Brick Breaker 2 Players](https://github.com/gerardVM/brick-breaker) | Haskell | A terminal-based 2-player Brick Breaker game | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/brick-breaker)
+[Minion Ascii Animation](https://github.com/gerardVM/ascii-animation-haskell) | Haskell | An ASCII animation of a Minion, playable in the terminal | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/ascii-animation-haskell)
+[Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | A bootcamp project, simulating a bank system in Java (1-week individual project) | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/IronHack-Personal-Project)
