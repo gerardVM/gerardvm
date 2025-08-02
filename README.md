@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Title | Language | Description | Last commit
 :--- | :---: | :--- | :---
+[K8s Playground](https://github.com/gerardVM/k8s-playground) | HCL | Local kubernetes playground: KinD + Terraform + Helm. Only requirement is Docker | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/k8s-playground)
 [My Observability](https://github.com/gerardVM/observability) | HCL | My personal observability setup in Grafana | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/observability)
 [AWS SSH Anywhere](https://github.com/gerardVM/terraform-aws-ssh-anywhere) | HCL | Terraform module to enable SSH access to any public or private EC2 instance on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-aws-ssh-anywhere)
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center, configured with YAML | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-aws-iam-identity-center)
