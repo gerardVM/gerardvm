@@ -25,6 +25,5 @@ Title | Language | Description | Last commit
 [AWS IAM Identity Center](https://github.com/gerardVM/terraform-aws-iam-identity-center) | HCL | Terraform module for AWS IAM Identity Center, configured with YAML | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-aws-iam-identity-center)
 [Ninja VPN](https://github.com/gerardVM/ninja-vpn) | HCL / Go | A temporary VPN server running on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/ninja-vpn)
 [My AWS Infra](https://github.com/gerardVM/shared-infra) | HCL | My personal infrastructure setup on AWS | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/shared-infra)
-[Terraform Anywhere](https://github.com/gerardVM/terraform-anywhere) | Shell | Portable containerized terraform |  ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/terraform-anywhere)
 [Brick Breaker 2 Players](https://github.com/gerardVM/brick-breaker) | Haskell | A terminal-based 2-player Brick Breaker game | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/brick-breaker)
 [Back-end Bank System](https://github.com/gerardVM/IronHack-Personal-Project) | Java | A bootcamp project, simulating a bank system in Java (1-week individual project) | ![Last Commit](https://img.shields.io/github/last-commit/gerardVM/IronHack-Personal-Project)
